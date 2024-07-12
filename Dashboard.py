@@ -8,7 +8,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 # Judul
 st.write("""
-# Klasifikasi Heart Disease (Gaussian Naive Bayes)
+# Klasifikasi Heart Disease (KNN)
 Aplikasi Berbasis Web Untuk Memprediksi (mengklasifikasi) Penyakit Jantung
 Data yang didapat dari Repositori UCI Machine Learning
 Dataset tersebut adalah dataset penyakit jantung yang terdiri dari 303 data individu
